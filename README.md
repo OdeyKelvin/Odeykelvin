@@ -2,8 +2,8 @@
 
 
 
-- 🔭 I’m currently working on TO D0 App
-- 🌱 I’m currently learning REACT AND TYPESCRIPT
+- 🔭 I’m currently working on Weatherapp App
+- 🌱 I’m currently learning REACTJS AND TYPESCRIPT
 - 👯 I’m looking for frontend web development gigs and technical writing opportunities
 - 🤔 I’m looking for help with Documention
 - 💬 Ask me about HTML/CSS, Javascript, Content Creation and Wordpress
