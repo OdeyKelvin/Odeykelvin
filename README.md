@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on Weatherapp App
+- 🔭 I’m currently working on Advanced Real Estate App
 - 🌱 I’m currently learning REACTJS AND TYPESCRIPT
 - 👯 I’m looking for frontend web development gigs and technical writing opportunities
 - 🤔 I’m looking for help with Documention
