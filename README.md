@@ -1,4 +1,4 @@
-### Hi there 👋 I Shanks
+### Hi there 👋 I'm Shanks
 
 
 
